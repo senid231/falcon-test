@@ -4,6 +4,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby '2.6.0'
 
 gem 'activesupport'
+gem 'rack-protection'
 
 # Async web server
 # https://github.com/socketry/falcon
