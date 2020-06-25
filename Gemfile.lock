@@ -61,7 +61,7 @@ GEM
     protocol-websocket (0.7.4)
       protocol-http (~> 0.2)
       protocol-http1 (~> 0.2)
-    rack (2.0.8)
+    rack (2.2.3)
     rack-protection (2.0.7)
       rack
     samovar (2.1.2)
